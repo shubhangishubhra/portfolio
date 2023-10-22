@@ -5,7 +5,7 @@ import javascript from "/Users/akshitgoyal/Desktop/one-portfolio-main 2/src/t/ex
 import reactImage from "/Users/akshitgoyal/Desktop/one-portfolio-main 2/src/t/experience/react.png";
 import tailwind from "/Users/akshitgoyal/Desktop/one-portfolio-main 2/src/t/experience/tailwind.png";
 import node from "/Users/akshitgoyal/Desktop/one-portfolio-main 2/src/t/experience/node.png";
-
+//
 const Experience = () => {
   const experience = [
     {
