@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/shubhangishubhra/portfolio/static/css/main.412ce9f8.css",
+    "main.js": "/shubhangishubhra/portfolio/static/js/main.68f6ece3.js",
+    "static/media/react.png": "/shubhangishubhra/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/shubhangishubhra/portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/html.png": "/shubhangishubhra/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/shubhangishubhra/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/shubhangishubhra/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/shubhangishubhra/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/shubhangishubhra/portfolio/index.html",
+    "main.412ce9f8.css.map": "/shubhangishubhra/portfolio/static/css/main.412ce9f8.css.map",
+    "main.68f6ece3.js.map": "/shubhangishubhra/portfolio/static/js/main.68f6ece3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.412ce9f8.css",
+    "static/js/main.68f6ece3.js"
+  ]
+}
